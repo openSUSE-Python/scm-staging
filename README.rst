@@ -11,7 +11,6 @@ Requirements
 for development:
 
 - Python 3.11 or later
-- `poetry <https://python-poetry.org/>`_
 
 for deployment:
 
